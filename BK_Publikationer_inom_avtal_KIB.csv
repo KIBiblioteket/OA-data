@@ -31,7 +31,7 @@
 10.1021/acschembio.1c00816;American Chemical Society;YFA_ACS;;Johansson, J;oktober;2021;;3300;Discounted;USD;;Hybrid
 10.1021/acschemneuro.1c00651;American Chemical Society;YFA_ACS;;Nag, S;november;2021;;3300;Discounted;USD;;Hybrid
 10.1021/jacsau.1c00458;American Chemical Society;YFA_ACS;;Landreh, M;november;2021;;3300;Discounted;USD;;Guld
-10.1021/acsbiomaterials.1c01354;American Chemical Society;YFA_ACS;;Chen, G;december;2021;;3300;Discounted;USD;;?
+10.1021/acsbiomaterials.1c01354;American Chemical Society;YFA_ACS;;Chen, G;december;2021;;3300;Discounted;USD;;Hybrid
 10.1021/jacs.1c12512;American Chemical Society;YFA_ACS;;Roman Zubarev;Januari;2022;;3500;List price;USD;;Hybrid
 10.1021/acschemneuro.1c00730;American Chemical Society;YFA_ACS;;Sangram Nag;Januari;2022;;3500;List price;USD;;Hybrid
 10.1021/acs.jafc.1c04418;American Chemical Society;YFA_ACS;;Axel Mie;Februari;2022;;3500;List price;USD;;Hybrid
@@ -203,8 +203,8 @@
 10.1017/s0144686x21001653;Cambridge University Press;YFA_CAM;;Johansson, K E;oktober;2021;;2045;Unknown;GBP;;Hybrid
 10.1017/s1352465821000473;Cambridge University Press;YFA_CAM;;Lundin, J;oktober;2021;;2045;Unknown;GBP;;Hybrid
 10.1017/s0033291720005334;Cambridge University Press;YFA_CAM;;Kowalec, K;november;2021;;2045;Unknown;GBP;;Hybrid
-10.1017/s0033291721005109;Cambridge University Press;YFA_CAM;;Zhang, T;november;2021;;2045;Unknown;GBP;;?
-10.1017/s0033291721005158;Cambridge University Press;YFA_CAM;;Gong, T;november;2021;;2045;Unknown;GBP;;?
+10.1017/s0033291721005109;Cambridge University Press;YFA_CAM;;Zhang, T;november;2021;;2045;Unknown;GBP;;Hybrid
+10.1017/s0033291721005158;Cambridge University Press;YFA_CAM;;Gong, T;november;2021;;2045;Unknown;GBP;;Hybrid
 10.1017/s2045796021000718;Cambridge University Press;YFA_CAM;;Edberg, Hanna;December;2021;;2045;List price;GBP;;Guld
 10.1192/bjo.2022.37;Cambridge University Press;YFA_CAM;;Helio Manhica;Februari;2022;;1640;List price;GBP;;Guld
 10.1017/ash.2022.32;Cambridge University Press;YFA_CAM;;Suzanne van der Werff;Februari;2022;;1600;List price;GBP;;Guld
@@ -4698,32 +4698,32 @@
 10.1371/journal.pone.0264203;PLOS;YFA_PLO;;Maria Wilcke;Februari;2022;;1805;Listpris;USD;;Guld
 10.1371/journal.pone.0265770;PLOS;YFA_PLO;;Olof Wall;Mars;2022;;1805;Listpris;USD;;Guld
 10.1371/journal.pone.0265827;PLOS;YFA_PLO;;Fredrik Baecklund;Mars;2022;;1805;Listpris;USD;;Guld
-10.1038/s41467-022-30800-y;Springer Nature Fully Open;YFA_SOA;;Maria Eriksson;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12889-022-13492-3;Springer Nature Fully Open;YFA_SOA;;Madelene Barboza;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12933-022-01530-8;Springer Nature Fully Open;YFA_SOA;;Uwe J.F. Tietge;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41467-022-30777-8;Springer Nature Fully Open;YFA_SOA;;Johan Ericson;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41398-022-01989-9;Springer Nature Fully Open;YFA_SOA;;Stefan Spulber;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41398-022-01998-8;Springer Nature Fully Open;YFA_SOA;;Adrian Desai Bostrom;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12874-022-01636-3;Springer Nature Fully Open;YFA_SOA;;Marie Reilly;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41597-022-01334-1;Springer Nature Fully Open;YFA_SOA;;Malin SandstrÃ¶m;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s42003-022-03376-y;Springer Nature Fully Open;YFA_SOA;;Rikard Holmdahl;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12891-022-05394-7;Springer Nature Fully Open;YFA_SOA;;Hanna SÃ¼dow;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s13046-022-02382-6;Springer Nature Fully Open;YFA_SOA;;Dawei Xu;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41598-022-12287-1;Springer Nature Fully Open;YFA_SOA;;Johanna Wallensten;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12913-022-08054-7;Springer Nature Fully Open;YFA_SOA;;Monica Elisabeth NystrÃ¶m;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12883-022-02704-3;Springer Nature Fully Open;YFA_SOA;;Ing-Mari Dohrn;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12931-022-02045-2;Springer Nature Fully Open;YFA_SOA;;Terezia Pincikova;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41467-022-30340-5;Springer Nature Fully Open;YFA_SOA;;Qiang Pan-Hammarstrom;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41467-022-30438-w;Springer Nature Fully Open;YFA_SOA;;Igor Adameyko;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41598-022-12395-y;Springer Nature Fully Open;YFA_SOA;;Anne K. Ã–rtqvist;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s42003-022-03442-5;Springer Nature Fully Open;YFA_SOA;;Nico Dantuma;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12879-022-07474-4;Springer Nature Fully Open;YFA_SOA;;Annelie Brauner;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41598-022-12007-9;Springer Nature Fully Open;YFA_SOA;;Unnur GUDNADOTTIR;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12913-022-08094-z;Springer Nature Fully Open;YFA_SOA;;Emma Hagqvist;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12887-022-03349-4;Springer Nature Fully Open;YFA_SOA;;Kimmo Sorjonen;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1186/s12909-022-03468-7;Springer Nature Fully Open;YFA_SOA;;Karin BjÃ¶rklund;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41467-022-30620-0;Springer Nature Fully Open;YFA_SOA;;Hui Gao;Maj;2022;;1997;Discounted;EUR;;Gold
-10.1038/s41531-022-00334-7;Springer Nature Fully Open;YFA_SOA;;Per Svenningsson;Maj;2022;;1997;Discounted;EUR;;Gold
+10.1038/s41467-022-30800-y;Springer Nature Fully Open;YFA_SOA;;Maria Eriksson;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12889-022-13492-3;Springer Nature Fully Open;YFA_SOA;;Madelene Barboza;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12933-022-01530-8;Springer Nature Fully Open;YFA_SOA;;Uwe J.F. Tietge;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41467-022-30777-8;Springer Nature Fully Open;YFA_SOA;;Johan Ericson;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41398-022-01989-9;Springer Nature Fully Open;YFA_SOA;;Stefan Spulber;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41398-022-01998-8;Springer Nature Fully Open;YFA_SOA;;Adrian Desai Bostrom;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12874-022-01636-3;Springer Nature Fully Open;YFA_SOA;;Marie Reilly;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41597-022-01334-1;Springer Nature Fully Open;YFA_SOA;;Malin Sandström;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s42003-022-03376-y;Springer Nature Fully Open;YFA_SOA;;Rikard Holmdahl;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12891-022-05394-7;Springer Nature Fully Open;YFA_SOA;;Hanna Südow;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s13046-022-02382-6;Springer Nature Fully Open;YFA_SOA;;Dawei Xu;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41598-022-12287-1;Springer Nature Fully Open;YFA_SOA;;Johanna Wallensten;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12913-022-08054-7;Springer Nature Fully Open;YFA_SOA;;Monica Elisabeth Nyström;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12883-022-02704-3;Springer Nature Fully Open;YFA_SOA;;Ing-Mari Dohrn;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12931-022-02045-2;Springer Nature Fully Open;YFA_SOA;;Terezia Pincikova;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41467-022-30340-5;Springer Nature Fully Open;YFA_SOA;;Qiang Pan-Hammarstrom;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41467-022-30438-w;Springer Nature Fully Open;YFA_SOA;;Igor Adameyko;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41598-022-12395-y;Springer Nature Fully Open;YFA_SOA;;Anne K. Örtqvist;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s42003-022-03442-5;Springer Nature Fully Open;YFA_SOA;;Nico Dantuma;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12879-022-07474-4;Springer Nature Fully Open;YFA_SOA;;Annelie Brauner;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41598-022-12007-9;Springer Nature Fully Open;YFA_SOA;;Unnur GUDNADOTTIR;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12913-022-08094-z;Springer Nature Fully Open;YFA_SOA;;Emma Hagqvist;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12887-022-03349-4;Springer Nature Fully Open;YFA_SOA;;Kimmo Sorjonen;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1186/s12909-022-03468-7;Springer Nature Fully Open;YFA_SOA;;Karin Björklund;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41467-022-30620-0;Springer Nature Fully Open;YFA_SOA;;Hui Gao;Maj;2022;;1997;Discounted;EUR;;Guld
+10.1038/s41531-022-00334-7;Springer Nature Fully Open;YFA_SOA;;Per Svenningsson;Maj;2022;;1997;Discounted;EUR;;Guld
 10.1038/s41418-022-01022-y;Springer Compact;YFA_SCO;;Marie Arsenian-Henriksson;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s11357-022-00590-8;Springer Compact;YFA_SCO;;Laura Kananen;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s00520-022-07150-y;Springer Compact;YFA_SCO;;Jenny Bergqvist;Maj;2022;;2381;Discounted;EUR;;Hybrid
@@ -4737,25 +4737,25 @@
 10.1007/s00018-022-04305-2;Springer Compact;YFA_SCO;;Shao-Nian Yang;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1038/s41366-022-01146-8;Springer Compact;YFA_SCO;;Pernilla Danielsson;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s12028-022-01518-y;Springer Compact;YFA_SCO;;Jakob Pansell;Maj;2022;;2381;Discounted;EUR;;Hybrid
-10.1007/s00431-022-04487-8;Springer Compact;YFA_SCO;;Ã…sa K. M. Ã–stlund;Maj;2022;;2381;Discounted;EUR;;Hybrid
+10.1007/s00431-022-04487-8;Springer Compact;YFA_SCO;;Åsa K. M. Östlund;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s10578-022-01367-y;Springer Compact;YFA_SCO;;Maria Helander;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s10840-022-01252-7;Springer Compact;YFA_SCO;;Mats Jensen-Urstad;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s00590-022-03284-1;Springer Compact;YFA_SCO;;Natalie Lundin;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1007/s12020-022-03070-3;Springer Compact;YFA_SCO;;Henrik Falhammar;Maj;2022;;2381;Discounted;EUR;;Hybrid
 10.1038/s41587-022-01311-4;Nature Transformative;YFA_NAT;;Rickard Sandberg;Maj;2022;;9500;List price;EUR;;Hybrid
-10.1038/s41556-022-00916-w;Nature Transformative;YFA_NAT;;Simon J. ElsÃ¤sser;Maj;2022;;9500;List price;EUR;;Hybrid
+10.1038/s41556-022-00916-w;Nature Transformative;YFA_NAT;;Simon J. Elsässer;Maj;2022;;9500;List price;EUR;;Hybrid
 10.1038/s41589-022-01047-x;Nature Transformative;YFA_NAT;;Olov Andersson;Maj;2022;;9500;List price;EUR;;Hybrid
-10.1111/joim.13527;Wiley;YFA_WIL;;MIKAEL RYDÃ‰N;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
+10.1111/joim.13527;Wiley;YFA_WIL;;Mikael Rydén;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1002/syn.22235;Wiley;YFA_WIL;;Patrik Mattsson;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/nup.12398;Wiley;YFA_WIL;;STAFFAN JOSEPHSSON;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/ecc.13626;Wiley;YFA_WIL;;Elham Hedayati;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/trf.16942;Wiley;YFA_WIL;;Gustaf Edgren;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/opn.12483;Wiley;YFA_WIL;;Ann Liljas;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1002/art.42239;Wiley;YFA_WIL;;SUSANNA LARSSON;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
-10.1111/apa.16412;Wiley;YFA_WIL;;BjÃ¶rn Lundberg;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
+10.1111/apa.16412;Wiley;YFA_WIL;;Björn Lundberg;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1002/alz.12698;Wiley;YFA_WIL;;Anders Wimo;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1002/alz.12704;Wiley;YFA_WIL;;Nicola Maria Payton;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
-10.1111/joim.13508;Wiley;YFA_WIL;;Tove WÃ¤sterlid;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
+10.1111/joim.13508;Wiley;YFA_WIL;;Tove Wästerlid;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/liv.15286;Wiley;YFA_WIL;;ANNIKA BERGQUIST;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1111/apa.16403;Wiley;YFA_WIL;;Maria Lalouni;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1002/alz.12708;Wiley;YFA_WIL;;Abigail Dove;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
@@ -4763,48 +4763,48 @@
 10.1002/jso.26926;Wiley;YFA_WIL;;PANAGIOTIS TSAGKOZIS;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.1096/fj.202200200rr;Wiley;YFA_WIL;;Junyu Chen;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
 10.15252/embr.202154499;Wiley;YFA_WIL;;Keying Zhu;Maj;2022;;3084;Listpris, medel-hybrid-APC frÃ¥n Wiley 2021;EUR;;Hybrid
-10.1161/jaha.122.025969;Wiley;YFA_WIL;;Weili Xu;Maj;2022;;3000;List price;EUR;;Gold
+10.1161/jaha.122.025969;Wiley;YFA_WIL;;Weili Xu;Maj;2022;;3000;List price;EUR;;Guld
 10.1016/j.cmi.2022.05.008;Elsevier;YFA_ELS;;Dr. Samuel Rhedin;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.xcrm.2022.100657;Elsevier;YFA_ELS;;Dr. Ninib Baryawno;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.xcrm.2022.100657;Elsevier;YFA_ELS;;Dr. Ninib Baryawno;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.tig.2022.05.010;Elsevier;YFA_ELS;;Dr. Magda Bienko;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.vaccine.2022.05.028;Elsevier;YFA_ELS;;Mr. A.M Axel MÃ¶ller;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.vaccine.2022.05.028;Elsevier;YFA_ELS;;Mr. A.M Axel Möller;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.chemosphere.2022.134764;Elsevier;YFA_ELS;;Dr. Karin Broberg;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.euros.2022.04.013;Elsevier;YFA_ELS;;Dr. Magdalena Gongora;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.euros.2022.04.013;Elsevier;YFA_ELS;;Dr. Magdalena Gongora;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.mam.2022.101099;Elsevier;YFA_ELS;;Prof. Thomas Ebert;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.cmi.2022.05.014;Elsevier;YFA_ELS;;Dr. Ana Requena-MÃ©ndez;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.jad.2022.05.082;Elsevier;YFA_ELS;;Mrs Katalin GÃ©mes;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.arabjc.2022.103984;Elsevier;YFA_ELS;;Dr. Sulman Shafeeq;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.cmi.2022.05.014;Elsevier;YFA_ELS;;Dr. Ana Requena-Méndez;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.jad.2022.05.082;Elsevier;YFA_ELS;;Mrs Katalin Gémes;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.arabjc.2022.103984;Elsevier;YFA_ELS;;Dr. Sulman Shafeeq;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.ahj.2022.05.021;Elsevier;YFA_ELS;;Dr Faizan Mazhar;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.jmig.2022.05.018;Elsevier;YFA_ELS;;Dr Emelie Wallin;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.ebiom.2022.104061;Elsevier;YFA_ELS;;Dr. Stefanie Prast-Nielsen;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
-10.1016/j.biopha.2022.113152;Elsevier;YFA_ELS;;Dr Yajun Liang;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
-10.1016/j.bpsc.2022.05.002;Elsevier;YFA_ELS;;PhD Stu... Simon Jangard;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.ebiom.2022.104061;Elsevier;YFA_ELS;;Dr. Stefanie Prast-Nielsen;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
+10.1016/j.biopha.2022.113152;Elsevier;YFA_ELS;;Dr Yajun Liang;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
+10.1016/j.bpsc.2022.05.002;Elsevier;YFA_ELS;;Simon Jangard;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.biopsycho.2022.108355;Elsevier;YFA_ELS;;Dr Laura Crucianelli;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.stemcr.2022.05.014;Cell Press;YFA_CEL;;Dr. Sidinh Luc;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.stemcr.2022.05.014;Cell Press;YFA_CEL;;Dr. Sidinh Luc;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.ejmp.2022.05.010;Elsevier;YFA_ELS;;Dr. Joachim N. Nilsson;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.neuro.2022.05.019;Elsevier;YFA_ELS;;Dr Karin Broberg;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.pan.2022.04.007;Elsevier;YFA_ELS;;Dr. Marcus Holmberg;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.cardfail.2022.04.011;Elsevier;YFA_ELS;;Dr Gianluigi Savarese;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.celrep.2022.110842;Elsevier;YFA_ELS;;Dr. Gilad Silberberg;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
-10.1016/j.invent.2022.100548;Elsevier;YFA_ELS;;Psychologâ€¦ Nora Choque Olsson;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
-10.1016/j.pmedr.2022.101846;Elsevier;YFA_ELS;;Dr. Ziad El-Khatib;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.celrep.2022.110842;Elsevier;YFA_ELS;;Dr. Gilad Silberberg;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
+10.1016/j.invent.2022.100548;Elsevier;YFA_ELS;;Nora Choque Olsson;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
+10.1016/j.pmedr.2022.101846;Elsevier;YFA_ELS;;Dr. Ziad El-Khatib;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.jfo.2022.02.009;Elsevier;YFA_ELS;;Professor Gysbert Botho van Setten;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.euros.2022.04.010;Elsevier;YFA_ELS;;Dr. Jan Chandra Engel;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
-10.1016/j.ejpn.2022.05.007;Elsevier;YFA_ELS;;Mrs E. DahlÃ©n;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.euros.2022.04.010;Elsevier;YFA_ELS;;Dr. Jan Chandra Engel;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
+10.1016/j.ejpn.2022.05.007;Elsevier;YFA_ELS;;Mrs E. Dahlén;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.suronc.2022.101735;Elsevier;YFA_ELS;;Doctor Stefan Linder;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.bcp.2022.115075;Elsevier;YFA_ELS;;Prof. Magnus BÃ¤ck;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.amsu.2022.103564;Elsevier;YFA_ELS;;Dr. Martin Gerdin WÃ¤rnberg;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.bcp.2022.115075;Elsevier;YFA_ELS;;Prof. Magnus Bäck;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
+10.1016/j.amsu.2022.103564;Elsevier;YFA_ELS;;Dr. Martin Gerdin Wärnberg;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.cels.2022.05.001;Elsevier;YFA_ELS;;Dr. Olaf Bergmann;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
 10.1016/j.ienj.2022.101178;Elsevier;YFA_ELS;;Dr. R. Ivic;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.stemcr.2022.05.005;Cell Press;YFA_CEL;;Dr. Fredrik Lanner;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.stemcr.2022.05.005;Cell Press;YFA_CEL;;Dr. Fredrik Lanner;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 10.1016/j.ejon.2022.102147;Elsevier;YFA_ELS;;Mrs Carina Rinaldo;Maj;2022;;3007;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Hybrid
-10.1016/j.eclinm.2022.101492;Elsevier;YFA_ELS;;Dr Per Lytsy;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Gold
+10.1016/j.eclinm.2022.101492;Elsevier;YFA_ELS;;Dr Per Lytsy;Maj;2022;;2452;List price, genomsnitt 2021 till 6e april 2022 YTD;EUR;;Guld
 ;Karger;YFA_KAR;Long-term Outcomes of Patients with IgA Nephropathy Categorized by the International IgAN Risk Prediction Tool and by the Degree of Hematuria at Diagnosis;Dr. Sigrid Lundberg;Maj;2022;;3000;List Price;EUR;;Hybrid
 ;Karger;YFA_KAR;Â Ipsilateral effects of unilateral Deep Brain Stimulation for Essential Tremor;Dr. Erik Ã–sterlund;Maj;2022;;3000;List Price;EUR;;Hybrid
-10.1093/intqhc/mzac034;Oxford University Press;YFA_OXF;;Dr MÃ¤rit Halmin;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/infdis/jiac190;Oxford University Press;YFA_OXF;;Joakim Dillner;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/ije/dyac116;Oxford University Press;YFA_OXF;;Sven Sandin;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/eurjpc/zwac093;Oxford University Press;YFA_OXF;;Stelios Karayiannides;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/bioinformatics/btac343;Oxford University Press;YFA_OXF;;Dr Mattias Rantalainen;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/aje/kwac098;Oxford University Press;YFA_OXF;;Dr Anthony Matthews;Maj;2022;;2539,59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
-10.1093/icvts/ivac151;Oxford University Press;YFA_OXF;;Malin Stenman;Maj;2022;;1720,6;Medel-APC frÃ¥n YFA;EUR;;Gold
+10.1093/intqhc/mzac034;Oxford University Press;YFA_OXF;;Dr Märit Halmin;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/infdis/jiac190;Oxford University Press;YFA_OXF;;Joakim Dillner;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/ije/dyac116;Oxford University Press;YFA_OXF;;Sven Sandin;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/eurjpc/zwac093;Oxford University Press;YFA_OXF;;Stelios Karayiannides;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/bioinformatics/btac343;Oxford University Press;YFA_OXF;;Dr Mattias Rantalainen;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/aje/kwac098;Oxford University Press;YFA_OXF;;Dr Anthony Matthews;Maj;2022;;2539.59;Medel-APC frÃ¥n YFA;EUR;;Hybrid
+10.1093/icvts/ivac151;Oxford University Press;YFA_OXF;;Malin Stenman;Maj;2022;;1720.6;Medel-APC frÃ¥n YFA;EUR;;Guld
